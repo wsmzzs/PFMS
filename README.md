@@ -1,5 +1,5 @@
 # PFMS
-一款HR档案管理系统模块，集成员工信息、考核、教育经历、工作经历、离职等功能，包括大数据分析，支持学历、人员变动等数据可视化分析。
+一款HR档案管理系统模块，集成员工信息、考核、教育经历、工作经历、离职等功能，包括大数据分析，支持学历、人员变动等数据可视化分析 登录账号：1001，密码：1注：因为密码用来哈希加密不可逆，所以先把密码提供给大家。
 <h3>环境：.NET Framework4.7.2   数据库SQLserver2017   编译器：Visual Studio2019<h3>
 <img>![3c36c87c9e929bd1cd872f49887479d](https://github.com/wsmzzs/PFMS/assets/147305608/b891994d-c076-41ca-bfef-bc37c033b7da)<img>
 <img>![b9a7205c3a44795f9e507cb98a1350b](https://github.com/wsmzzs/PFMS/assets/147305608/245c735f-0a22-4617-9382-a301b431fce3)<img>
